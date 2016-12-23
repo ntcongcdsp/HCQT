@@ -1,0 +1,13 @@
+<?php
+	define('NHOM_QUAN_TRI',1);
+	define('NHOM_THANH_VIEN',2);
+	define('BAI_VIET',1);
+	define('TIN_MAT',2);
+	define('TIN_TIM',3);
+	define('CHUA_KIEM_DUYET',0);
+	define('DA_KIEM_DUYET',1);
+	define('BASE_PATH',realpath(dirname(__DIR__)));
+	define('BASE_URL','http://localhost/HCQT/');
+	define('BASE_URL_Khach','http://localhost/HCQT/Khach/');
+		define('BASE_URL_Admin','http://localhost/HCQT/Admin/');
+?>
